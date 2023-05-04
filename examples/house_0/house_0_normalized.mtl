@@ -1,0 +1,128 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+
+newmtl Color_D20
+Ka 0.000000 0.000000 0.000000
+Kd 0.298039 0.270588 0.250980
+Ks 0.330000 0.330000 0.330000
+
+newmtl Translucent_Glass_Sky_Reflection
+Ka 0.000000 0.000000 0.000000
+Kd 0.501961 0.501961 0.501961
+Ks 0.330000 0.330000 0.330000
+d 0.500000
+
+newmtl Pine
+Ka 0.000000 0.000000 0.000000
+Kd 0.882353 0.709804 0.474510
+Ks 0.330000 0.330000 0.330000
+map_Kd house_0/Pine.jpg
+
+newmtl Beige
+Ka 0.000000 0.000000 0.000000
+Kd 0.843137 0.780392 0.670588
+Ks 0.330000 0.330000 0.330000
+
+newmtl Wood_Cherry_Original
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.337255 0.164706
+Ks 0.330000 0.330000 0.330000
+map_Kd house_0/Wood_Cherry_Original.jpg
+
+newmtl Color_C22
+Ka 0.000000 0.000000 0.000000
+Kd 0.200000 0.117647 0.039216
+Ks 0.330000 0.330000 0.330000
+
+newmtl Color_008
+Ka 0.000000 0.000000 0.000000
+Kd 0.117647 0.117647 0.117647
+Ks 0.330000 0.330000 0.330000
+
+newmtl Color_004
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.556863 0.556863
+Ks 0.330000 0.330000 0.330000
+
+newmtl Translucent_Glass_Blue
+Ka 0.000000 0.000000 0.000000
+Kd 0.501961 0.501961 0.501961
+Ks 0.330000 0.330000 0.330000
+d 0.500000
+
+newmtl FrontColor
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+
+newmtl Color_000
+Ka 0.000000 0.000000 0.000000
+Kd 0.764706 0.752941 0.717647
+Ks 0.330000 0.330000 0.330000
+
+newmtl CT_ColorMax_PreFinish_Cedar_Lap_6in_Newport_Taupe_2x12
+Ka 0.000000 0.000000 0.000000
+Kd 0.435294 0.403922 0.356863
+Ks 0.330000 0.330000 0.330000
+map_Kd house_0/CT_ColorMax_PreFinish_Cedar_Lap_6in_Newport_Taupe_2x12.jpg
+
+newmtl CT_ColorMax_PreFinish_Cedar_Lap_6in_Nantucket_Gray_2x12
+Ka 0.000000 0.000000 0.000000
+Kd 0.588235 0.580392 0.505882
+Ks 0.330000 0.330000 0.330000
+map_Kd house_0/CT_ColorMax_PreFinish_Cedar_Lap_6in_Nantucket_Gray_2x12.jpg
+
+newmtl CT_ColorMax_PreFinish_Cedar_Lap_6in_Wicker_2x12
+Ka 0.000000 0.000000 0.000000
+Kd 0.721569 0.690196 0.619608
+Ks 0.330000 0.330000 0.330000
+map_Kd house_0/CT_ColorMax_PreFinish_Cedar_Lap_6in_Wicker_2x12.jpg
+
+newmtl _Color_000_1
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+
+newmtl Roofing_Shingles_Asphalt
+Ka 0.000000 0.000000 0.000000
+Kd 0.435294 0.403922 0.380392
+Ks 0.330000 0.330000 0.330000
+map_Kd house_0/Roofing_Shingles_Asphalt.jpg
+
+newmtl Fieldstone___Bronze_Mist
+Ka 0.000000 0.000000 0.000000
+Kd 0.564706 0.537255 0.498039
+Ks 0.330000 0.330000 0.330000
+map_Kd house_0/Fieldstone___Bronze_Mist.jpg
+
+newmtl Concrete_Aggregate_Smoke
+Ka 0.000000 0.000000 0.000000
+Kd 0.607843 0.588235 0.580392
+Ks 0.330000 0.330000 0.330000
+map_Kd house_0/Concrete_Aggregate_Smoke.jpg
+
+newmtl CT_ColorMax_Prefinished_RandSquare_Strt_Edge_7inExp_Olive_32x48
+Ka 0.000000 0.000000 0.000000
+Kd 0.447059 0.462745 0.407843
+Ks 0.330000 0.330000 0.330000
+map_Kd house_0/CT_ColorMax_Prefinished_RandSquare_Strt_Edge_7inExp_Olive_32x48.jpg
+
+newmtl CT_ColorMax_Prefinished_PerfectionShingle_7inExp_Newport_Taupe_21x144
+Ka 0.000000 0.000000 0.000000
+Kd 0.470588 0.435294 0.384314
+Ks 0.330000 0.330000 0.330000
+map_Kd house_0/CT_ColorMax_Prefinished_PerfectionShingle_7inExp_Newport_Taupe_21x144.jpg
+
+newmtl Concrete_Block_8x8_Gray
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.615686 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd house_0/Concrete_Block_8x8_Gray.jpg
+
+newmtl Polished_Concrete_New
+Ka 0.000000 0.000000 0.000000
+Kd 0.784314 0.784314 0.796078
+Ks 0.330000 0.330000 0.330000
+map_Kd house_0/Polished_Concrete_New.jpg
+
